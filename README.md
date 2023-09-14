@@ -1,1 +1,1 @@
-## That is my solution to the hard problems that are on HckerRank.
+## That is my solution to the C hard problems that are on HckerRank.
