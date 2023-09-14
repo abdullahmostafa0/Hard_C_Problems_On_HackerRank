@@ -1,1 +1,1 @@
-## This is my solution of hard problems in c on HackerRank
+## This is my solution of hard problems in C on HackerRank
